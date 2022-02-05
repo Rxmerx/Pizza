@@ -1,6 +1,6 @@
 body{
     background: url(../img/Astro.jpeg);
-    font-family: 'Syne Tactile', cursive;
+    font-family: 'Syne Tactile';
 }
 
 h3{
@@ -79,19 +79,19 @@ fieldset{
     color: #000;
     text-decoration: none;
     text-transform: capitalize;
-    font-family: 'Syne Tactile', cursive;
+    font-family: 'Syne Tactile';
     color: white;
     font-size: 15px;
 }
 
 #bot{
     text-align: center;
-    font-family: 'Syne Tactile', cursive;
+    font-family: 'Syne Tactile';
 }
 
 option{
     background-color: rgba(0, 0, 0, 0);
-    font-family: 'Syne Tactile', cursive;
+    font-family: 'Syne Tactile';
 }
 
 .logo{
